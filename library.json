@@ -1,0 +1,19 @@
+{
+	"name": "ADS1220",
+	"keywords": "ads1220,adc,spi,rtd,pt100",
+	"description": "Arduino library for ADS1220 24-bit, 2-kSPS, four-channel, low-power, delta-sigma ADC with PGA, VREF, SPI and two IDACs",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/hideakitai/ADS1220.git"
+	},
+	"authors": {
+		"name": "Hideaki Tai",
+		"url": "https://github.com/hideakitai",
+		"maintainer": true
+	},
+	"version": "0.1.0",
+	"license": "MIT",
+	"frameworks": "arduino",
+	"platforms": "*",
+	"dependencies": {}
+}
